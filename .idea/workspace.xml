@@ -17,6 +17,17 @@
   </component>
   <component name="ProjectId" id="2Lk3v6NOMfGEiP3nKPhxHbjAIop" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="默认任务">
@@ -26,6 +37,7 @@
       <option name="presentableId" value="Default" />
       <updated>1676401480526</updated>
       <workItem from="1676401487852" duration="1109000" />
+      <workItem from="1676402775916" duration="160000" />
     </task>
     <task id="LOCAL-00001" summary="deploy">
       <created>1676401654599</created>
@@ -90,7 +102,21 @@
       <option name="project" value="LOCAL" />
       <updated>1676402732559</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="deploy">
+      <created>1676402787799</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1676402787799</updated>
+    </task>
+    <task id="LOCAL-00011" summary="deploy">
+      <created>1676402838898</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676402838898</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
