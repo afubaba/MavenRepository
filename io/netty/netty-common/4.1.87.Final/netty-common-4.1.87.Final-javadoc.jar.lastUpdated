@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 02:47:20 CST 2023
+@default-spring-milestones-https\://repo.spring.io/libs-milestone/.lastUpdated=1676400439828
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact io.netty\:netty-common\:jar\:javadoc\:4.1.87.Final from/to spring-milestones (https\://repo.spring.io/libs-milestone)\: Access denied to https\://repo.spring.io/libs-milestone/io/netty/netty-common/4.1.87.Final/netty-common-4.1.87.Final-javadoc.jar. Error code 401, 
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1676400440594

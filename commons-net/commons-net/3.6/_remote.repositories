@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 02:48:30 CST 2023
+commons-net-3.6.jar>alimaven=
+commons-net-3.6-sources.jar>alimaven=
+commons-net-3.6-javadoc.jar>alimaven=
+commons-net-3.6.pom>alimaven=

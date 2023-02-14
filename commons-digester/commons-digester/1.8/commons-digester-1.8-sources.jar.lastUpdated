@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 02:48:34 CST 2023
+@default-spring-milestones-https\://repo.spring.io/libs-milestone/.lastUpdated=1676400514429
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact commons-digester\:commons-digester\:jar\:sources\:1.8 from/to spring-milestones (https\://repo.spring.io/libs-milestone)\: Access denied to https\://repo.spring.io/libs-milestone/commons-digester/commons-digester/1.8/commons-digester-1.8-sources.jar. Error code 401, 
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1676400514774

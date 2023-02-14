@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 02:47:18 CST 2023
+lettuce-core-6.1.10.RELEASE-sources.jar>alimaven=
+lettuce-core-6.1.10.RELEASE-javadoc.jar>alimaven=
+lettuce-core-6.1.10.RELEASE.jar>alimaven=
+lettuce-core-6.1.10.RELEASE.pom>alimaven=

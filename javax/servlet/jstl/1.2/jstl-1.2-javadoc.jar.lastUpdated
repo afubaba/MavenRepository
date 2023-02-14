@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 02:48:09 CST 2023
+@default-spring-milestones-https\://repo.spring.io/libs-milestone/.lastUpdated=1676400489523
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact javax.servlet\:jstl\:jar\:javadoc\:1.2 from/to spring-milestones (https\://repo.spring.io/libs-milestone)\: Access denied to https\://repo.spring.io/libs-milestone/javax/servlet/jstl/1.2/jstl-1.2-javadoc.jar. Error code 401, 
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1676400489652

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 02:40:50 CST 2023
+@default-spring-milestones-https\://repo.spring.io/libs-milestone/.lastUpdated=1676400050266
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact commons-validator\:commons-validator\:pom\:1.4.0 from/to spring-milestones (https\://repo.spring.io/libs-milestone)\: Access denied to https\://repo.spring.io/libs-milestone/commons-validator/commons-validator/1.4.0/commons-validator-1.4.0.pom. Error code 401, 
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1676400050525
