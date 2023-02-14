@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b1d3bd2-acfd-4e34-9d7c-675742db1343" name="变更" comment="deploy">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="8b1d3bd2-acfd-4e34-9d7c-675742db1343" name="变更" comment="deploy" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,7 +25,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676401480526</updated>
-      <workItem from="1676401487852" duration="1056000" />
+      <workItem from="1676401487852" duration="1109000" />
     </task>
     <task id="LOCAL-00001" summary="deploy">
       <created>1676401654599</created>
@@ -85,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676402530007</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="deploy">
+      <created>1676402732559</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1676402732559</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
