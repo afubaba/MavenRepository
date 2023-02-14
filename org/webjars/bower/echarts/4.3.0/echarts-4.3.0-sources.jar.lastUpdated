@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 02:46:35 CST 2023
+@default-spring-milestones-https\://repo.spring.io/libs-milestone/.lastUpdated=1676400395120
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact org.webjars.bower\:echarts\:jar\:sources\:4.3.0 from/to spring-milestones (https\://repo.spring.io/libs-milestone)\: Access denied to https\://repo.spring.io/libs-milestone/org/webjars/bower/echarts/4.3.0/echarts-4.3.0-sources.jar. Error code 401, 
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1676400395569

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 02:40:36 CST 2023
+@default-spring-milestones-https\://repo.spring.io/libs-milestone/.lastUpdated=1676400035687
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact org.mongodb\:mongodb-driver-core\:pom\:4.6.1 from/to spring-milestones (https\://repo.spring.io/libs-milestone)\: Access denied to https\://repo.spring.io/libs-milestone/org/mongodb/mongodb-driver-core/4.6.1/mongodb-driver-core-4.6.1.pom. Error code 401, 
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1676400036281

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 02:39:33 CST 2023
+@default-spring-milestones-https\://repo.spring.io/libs-milestone/.lastUpdated=1676399972829
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact org.thymeleaf\:thymeleaf-spring5\:pom\:3.0.15.RELEASE from/to spring-milestones (https\://repo.spring.io/libs-milestone)\: Access denied to https\://repo.spring.io/libs-milestone/org/thymeleaf/thymeleaf-spring5/3.0.15.RELEASE/thymeleaf-spring5-3.0.15.RELEASE.pom. Error code 401, 
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1676399973150

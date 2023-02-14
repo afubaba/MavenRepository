@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 02:45:07 CST 2023
+@default-spring-milestones-https\://repo.spring.io/libs-milestone/.lastUpdated=1676400306957
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact org.webjars.npm\:hash-base\:jar\:sources\:3.1.0 from/to spring-milestones (https\://repo.spring.io/libs-milestone)\: Access denied to https\://repo.spring.io/libs-milestone/org/webjars/npm/hash-base/3.1.0/hash-base-3.1.0-sources.jar. Error code 401, 
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1676400307349

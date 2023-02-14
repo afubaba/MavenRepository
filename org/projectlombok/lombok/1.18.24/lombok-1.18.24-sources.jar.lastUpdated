@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 02:45:54 CST 2023
+@default-spring-milestones-https\://repo.spring.io/libs-milestone/.lastUpdated=1676400354038
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact org.projectlombok\:lombok\:jar\:sources\:1.18.24 from/to spring-milestones (https\://repo.spring.io/libs-milestone)\: Access denied to https\://repo.spring.io/libs-milestone/org/projectlombok/lombok/1.18.24/lombok-1.18.24-sources.jar. Error code 401, 
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1676400354724

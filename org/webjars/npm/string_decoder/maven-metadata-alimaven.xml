@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<metadata>
+  <groupId>org.webjars.npm</groupId>
+  <artifactId>string_decoder</artifactId>
+  <version>1.3.0</version>
+  <versioning>
+    <release>1.3.0</release>
+    <versions>
+      <version>0.10.31</version>
+      <version>1.0.3</version>
+      <version>1.1.1</version>
+      <version>1.2.0</version>
+      <version>1.3.0</version>
+    </versions>
+    <lastUpdated>20201103171412</lastUpdated>
+  </versioning>
+</metadata>

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 02:46:43 CST 2023
+@default-spring-milestones-https\://repo.spring.io/libs-milestone/.lastUpdated=1676400402902
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact redis.clients\:jedis\:jar\:sources\:3.8.0 from/to spring-milestones (https\://repo.spring.io/libs-milestone)\: Access denied to https\://repo.spring.io/libs-milestone/redis/clients/jedis/3.8.0/jedis-3.8.0-sources.jar. Error code 401, 
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1676400403379

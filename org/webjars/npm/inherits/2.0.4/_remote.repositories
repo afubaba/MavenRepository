@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 02:45:15 CST 2023
+inherits-2.0.4-javadoc.jar>alimaven=
+inherits-2.0.4.pom>alimaven=
+inherits-2.0.4.jar>alimaven=
+inherits-2.0.4-sources.jar>alimaven=

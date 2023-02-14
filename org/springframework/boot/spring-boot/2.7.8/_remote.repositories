@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 02:40:37 CST 2023
+spring-boot-2.7.8.pom>alimaven=
+spring-boot-2.7.8.jar>alimaven=
+spring-boot-2.7.8-sources.jar>alimaven=
+spring-boot-2.7.8-javadoc.jar>alimaven=

@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 02:46:31 CST 2023
+@default-spring-milestones-https\://repo.spring.io/libs-milestone/.lastUpdated=1676400391646
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact org.webjars\:jquery\:jar\:sources\:1.7.2 from/to spring-milestones (https\://repo.spring.io/libs-milestone)\: Access denied to https\://repo.spring.io/libs-milestone/org/webjars/jquery/1.7.2/jquery-1.7.2-sources.jar. Error code 401, 
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1676400391893

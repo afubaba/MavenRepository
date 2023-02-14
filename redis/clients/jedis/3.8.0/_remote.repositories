@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 02:46:44 CST 2023
+jedis-3.8.0-javadoc.jar>alimaven=
+jedis-3.8.0.jar>alimaven=
+jedis-3.8.0-sources.jar>alimaven=
+jedis-3.8.0.pom>alimaven=

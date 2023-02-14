@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <packaging>jar</packaging>
+    <groupId>org.webjars.npm</groupId>
+    <artifactId>simple-sha1</artifactId>
+    <version>3.1.0</version>
+    <name>simple-sha1</name>
+    <description>WebJar for simple-sha1</description>
+    <url>https://www.webjars.org</url>
+
+    <properties>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    </properties>
+
+    <scm>
+        <url>https://github.com/michaelrhodes/simple-sha1</url>
+        <connection>https://github.com/michaelrhodes/simple-sha1.git</connection>
+        <developerConnection>https://github.com/michaelrhodes/simple-sha1.git</developerConnection>
+        <tag>v3.1.0</tag>
+    </scm>
+
+    <developers>
+        <developer>
+            <id>webjars</id>
+            <url>https://www.webjars.org</url>
+        </developer>
+    </developers>
+
+    <licenses>
+        
+            <license>
+                
+                    <name>MIT</name>
+                
+                
+                <distribution>repo</distribution>
+            </license>
+        
+    </licenses>
+
+    
+    <issueManagement>
+        <url>https://github.com/michaelrhodes/simple-sha1/issues</url>
+    </issueManagement>
+    
+
+    <dependencies>
+        
+        <dependency>
+            <groupId>org.webjars.npm</groupId>
+            <artifactId>queue-microtask</artifactId>
+            <version>[1.2.2,2)</version>
+        </dependency>
+        
+        <dependency>
+            <groupId>org.webjars.npm</groupId>
+            <artifactId>rusha</artifactId>
+            <version>[0.8.13,0.9)</version>
+        </dependency>
+        
+        
+    </dependencies>
+
+</project>

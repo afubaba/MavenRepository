@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 02:46:42 CST 2023
+sqlite-jdbc-3.36.0.3-sources.jar>alimaven=
+sqlite-jdbc-3.36.0.3-javadoc.jar>alimaven=
+sqlite-jdbc-3.36.0.3.jar>alimaven=
+sqlite-jdbc-3.36.0.3.pom>alimaven=

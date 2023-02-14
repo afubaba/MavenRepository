@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 02:48:13 CST 2023
+@default-spring-milestones-https\://repo.spring.io/libs-milestone/.lastUpdated=1676400493271
+http\://maven.aliyun.com/nexus/content/groups/public/.error=
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact org.apache.tomcat.embed\:tomcat-embed-jasper\:jar\:javadoc\:9.0.71 from/to spring-milestones (https\://repo.spring.io/libs-milestone)\: Access denied to https\://repo.spring.io/libs-milestone/org/apache/tomcat/embed/tomcat-embed-jasper/9.0.71/tomcat-embed-jasper-9.0.71-javadoc.jar. Error code 401, 
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1676400079249

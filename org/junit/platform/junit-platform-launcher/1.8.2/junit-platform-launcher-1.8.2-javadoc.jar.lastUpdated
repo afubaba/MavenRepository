@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 02:45:51 CST 2023
+@default-spring-milestones-https\://repo.spring.io/libs-milestone/.lastUpdated=1676400351294
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact org.junit.platform\:junit-platform-launcher\:jar\:javadoc\:1.8.2 from/to spring-milestones (https\://repo.spring.io/libs-milestone)\: Access denied to https\://repo.spring.io/libs-milestone/org/junit/platform/junit-platform-launcher/1.8.2/junit-platform-launcher-1.8.2-javadoc.jar. Error code 401, 
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1676400351942
