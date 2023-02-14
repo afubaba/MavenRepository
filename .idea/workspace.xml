@@ -1,14 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b1d3bd2-acfd-4e34-9d7c-675742db1343" name="变更" comment="deploy" />
+    <list default="true" id="8b1d3bd2-acfd-4e34-9d7c-675742db1343" name="变更" comment="deploy">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="WARN_ABOUT_CRLF" value="false" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -23,7 +27,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1676401480526</updated>
-      <workItem from="1676401487852" duration="248000" />
+      <workItem from="1676401487852" duration="1056000" />
     </task>
     <task id="LOCAL-00001" summary="deploy">
       <created>1676401654599</created>
@@ -32,7 +36,56 @@
       <option name="project" value="LOCAL" />
       <updated>1676401654599</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="deploy">
+      <created>1676402000390</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1676402000390</updated>
+    </task>
+    <task id="LOCAL-00003" summary="deploy">
+      <created>1676402097269</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676402097269</updated>
+    </task>
+    <task id="LOCAL-00004" summary="deploy">
+      <created>1676402118810</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676402118810</updated>
+    </task>
+    <task id="LOCAL-00005" summary="deploy">
+      <created>1676402181204</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1676402181204</updated>
+    </task>
+    <task id="LOCAL-00006" summary="deploy">
+      <created>1676402231160</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1676402231160</updated>
+    </task>
+    <task id="LOCAL-00007" summary="deploy">
+      <created>1676402322772</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676402322772</updated>
+    </task>
+    <task id="LOCAL-00008" summary="deploy">
+      <created>1676402530007</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1676402530007</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
