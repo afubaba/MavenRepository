@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 15 03:49:23 CST 2023
+https\://repo.spring.io/libs-milestone/.error=Could not transfer artifact commons-collections\:commons-collections\:jar\:3.2.1 from/to spring-milestones (https\://repo.spring.io/libs-milestone)\: status code\: 401, reason phrase\:  (401)
+@default-spring-milestones-https\://repo.spring.io/libs-milestone/.lastUpdated=1676404162361
+http\://maven.aliyun.com/nexus/content/groups/public/.lastUpdated=1676404163316
